@@ -12,13 +12,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00F7F4&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+To+My+Github;++;Developer+FiveM">
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## <picture><img src = "https://cdn-icons-png.flaticon.com/512/1256/1256650.png" width = 50px></picture> **About me**
 
-<br>
-
-## I'm a Software Developer!!
+<BR>
+<h2 align="center">I'm a Software Developer!!</h2>
+<div align="center">
 
 - 👨‍💻 I'm currently working on some small projects
 - 📖 I love open source projects 💙
@@ -26,6 +26,22 @@
 - 🏫 I study Software Developer course
 
 <br>
+
+
+
+</div>
+<tr>
+<BR>
+<h2 align="center">Github Stats</h2>
+<div align="center">
+
+[![TOP LANGUAGES DEV](https://github-readme-stats.vercel.app/api/top-langs/?username=Galaxyy2&theme=discord_old_blurple)](https://github.com/Galaxyy2)
+  </BR>
+  </BR>
+
+
+
+</div>
 
 <!-- <br>
 
