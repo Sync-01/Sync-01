@@ -3,10 +3,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img width="160" height="160" src="https://imgur.com/lSj4F6U.png">
+  <img width="160" height="160" src="https://cdn.discordapp.com/attachments/1072673721933910097/1499224788105957426/477e3cc5f268d366d56a188e9109fa261207f718.png?ex=69f40563&is=69f2b3e3&hm=411b1008ea477167e1a9960416bb77240d314aa75eff7183a8b1b69f4fd76637&">
 </p>
 
-<h1 align="center"><b>Hi , I'm Sync </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Sync </b><img src="https://cdn.discordapp.com/attachments/1072673721933910097/1499224788105957426/477e3cc5f268d366d56a188e9109fa261207f718.png?ex=69f40563&is=69f2b3e3&hm=411b1008ea477167e1a9960416bb77240d314aa75eff7183a8b1b69f4fd76637&" width="35"></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00F7F4&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+To+My+Github;++;Developer+FiveM">
