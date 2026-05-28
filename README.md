@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img width="160" height="160" src="https://cdn.discordapp.com/attachments/1072673721933910097/1499224788105957426/477e3cc5f268d366d56a188e9109fa261207f718.png?ex=69f40563&is=69f2b3e3&hm=411b1008ea477167e1a9960416bb77240d314aa75eff7183a8b1b69f4fd76637&">
+  <img width="160" height="160" src="https://cdn.discordapp.com/attachments/1072673721933910097/1499224788105957426/477e3cc5f268d366d56a188e9109fa261207f718.png?ex=6a199823&is=6a1846a3&hm=39c221c304a75d56fe61343747c893a1a7e73d938631f346c4f2389dea367b4a&">
 </p>
 
 <h1 align="center"><b>Hi , I'm Sync </b><img src="https://cdn.discordapp.com/attachments/1072673721933910097/1499224788105957426/477e3cc5f268d366d56a188e9109fa261207f718.png?ex=6a199823&is=6a1846a3&hm=39c221c304a75d56fe61343747c893a1a7e73d938631f346c4f2389dea367b4a&" width="35"></h1>
