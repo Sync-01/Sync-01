@@ -6,7 +6,7 @@
   <img width="160" height="160" src="https://cdn.discordapp.com/avatars/514819658860199952/1dd561468991de0bba5ee55206f31540.webp?size=128">
 </p>
 
-<h1 align="center"><b>Hi , I'm Sync </b><img src="https://cdn.discordapp.com/attachments/1072673721933910097/1499224788105957426/477e3cc5f268d366d56a188e9109fa261207f718.png?ex=6a199823&is=6a1846a3&hm=39c221c304a75d56fe61343747c893a1a7e73d938631f346c4f2389dea367b4a&" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Sync </b><img src="https://discord.com/assets/ba8c8625b6dcf6f1.svg" width="35"></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00F7F4&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+To+My+Github;++;Developer+FiveM">
